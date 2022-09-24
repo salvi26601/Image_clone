@@ -1,0 +1,22 @@
+.card_div {
+    margin: 5vh 0;
+}
+
+.card_container {
+    height: 8rem;
+    border-radius: 10px;
+}
+
+.heading {
+    padding: 7px;
+}
+
+.subHead {
+    padding: 7px;
+    font-weight: "bold"
+}
+
+.icon_div {
+    text-align: center;
+    margin: auto;
+}
